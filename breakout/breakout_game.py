@@ -385,7 +385,7 @@ while game_loop:
         screen.blit(score_text, score_text_rect)
         screen.blit(player_life_text, player_life_text_rect)
 
-if game_over:
+    if game_over:
         if player_1_move_right or player_1_move_left:
             red = []
             for n in range(2):
