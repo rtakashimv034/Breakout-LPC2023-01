@@ -1,1 +1,2 @@
-# Breakout-LPC2023-01
+# breakout_game
+Desenvolvimento do jogo breakout pelo pygame.
